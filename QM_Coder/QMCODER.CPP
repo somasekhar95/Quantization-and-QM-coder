@@ -1,13 +1,3 @@
-//---------------------------------------------------------------------------
-// FILE: 		qmcoder.cpp
-//
-// Author:
-// Wenlong Dong			<wdong@sipi.usc.edu>
-// 				http://sipi.usc.edu/~wdong/
-//
-// July 14, 2000		University of Southern California
-// LAST UPDATE:         Jan, 25, 2007
-//---------------------------------------------------------------------------
 #include <stdlib.h>
 #include "qmcoder.h"
 
